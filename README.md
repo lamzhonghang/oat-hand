@@ -2,13 +2,7 @@
 
 A warm and friendly handwritten font family perfect for creative designs, branding, and personal projects.
 
-![Oat Hand Preview](hand_1.png)
-
-## Font Showcase
-
-![Oat Hand Styles](hand_2.png)
-
-![Oat Hand Applications](hand_3.png)
+![Oat Inktrap Preview](hand_1.png)
 
 ## Font Weights
 
@@ -19,14 +13,6 @@ A warm and friendly handwritten font family perfect for creative designs, brandi
 - **Extrabold** - Large titles, posters
 - **Heavy** - Display text, logos
 
-## Installation
-
-Download the font files and install them on your system:
-
-- **Windows**: Right-click font file → Install
-- **macOS**: Double-click font file → Install Font
-- **Linux**: Copy to `/usr/share/fonts/truetype/` and run `fc-cache -fv`
-
 ## Usage
 
 Perfect for:
@@ -36,6 +22,10 @@ Perfect for:
 - Social media graphics
 - Packaging design
 - Personal projects
+
+![Oat Hand Preview](hand_1.png)
+![Oat Hand Styles](hand_2.png)
+![Oat Hand Applications](hand_3.png)
 
 ## License
 
